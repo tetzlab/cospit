@@ -1,5 +1,7 @@
 # Introduction
 
+[![cospit](https://github.com/tetzlab/cospit/actions/workflows/basic.yml/badge.svg)](https://github.com/tetzlab/cospit/actions/workflows/basic.yml)
+
 `cospit` implements the mixture method of "Generation of Correlated
 Spike Trains" (Brette 2009, https://doi.org/10.1162/neco.2009.12-07-657)
 to generate correlated spike trains.
